@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pavitragupta021@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DVErvw69bG7r1Cr5nr2w8yH0I6AwFMT9/view](https://drive.google.com/file/d/1DVErvw69bG7r1Cr5nr2w8yH0I6AwFMT9/view)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1DVErvw69bG7r1Cr5nr2w8yH0I6AwFMT9/view">resume</a>
  
 <h3 style="width:50%" align="left">Connect with me:</h3>
 <p style="width:50%" align="left">
