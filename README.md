@@ -2,8 +2,8 @@
  
 <h1 align="center">Hi 👋, I'm Pavitra Kumar Gupta</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" style="width:90%; height:300px; margin:0px; padding:0px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="devloper"/>
-<!-- <img style="width:80%" align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="devloper"/> -->
+<!-- <img align="right" style="width:90%; height:300px; margin:0px; padding:0px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="devloper"/> -->
+<img style="width:90%; height:300px;" align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="devloper"/>
  
  
 - 🌱 I’m currently learning **Redux,Ajax**
