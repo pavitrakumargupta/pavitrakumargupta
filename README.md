@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavitrakumargupta&label=Profile%20views&color=0e75b6&style=flat" alt="pavitrakumargupta" /> </p>
 <img align="right" style="width:90%; height:300px; margin:0px; padding:0px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="devloper"/>
 
-- 🔭 I’m currently working on [Blog app](https://github.com/pavitrakumargupta/Blog-Posting--App)
+- 🔭 I’m currently working on [On-Campus](https://github.com/pavitrakumargupta/On-Campus)
 
 - 🌱 I’m currently learning **Full-stack depth concept S3 redux server etc**
 
-- 👨‍💻 All of my projects are available at [https://radiant-druid-2a36db.netlify.app/](https://radiant-druid-2a36db.netlify.app/)
+- 👨‍💻 All of my projects are available at [Link](https://pavitrakumargupta.github.io/Portfolio)
 
-- 📝 I regularly write articles on [https://taupe-cactus-098771.netlify.app](https://taupe-cactus-098771.netlify.app)
+- 📝 I regularly write articles on [Link](https://on-campus.netlify.app/blogs)
 
 - 💬 Ask me about **MERN stack(Mongodb,express.js,react.js,node.js)**
 
