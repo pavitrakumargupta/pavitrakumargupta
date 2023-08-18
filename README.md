@@ -18,7 +18,7 @@
 
 - 📫 How to reach me 📧 **pavitragupta021@gmail.com**
 
-- 📄 Know about my experiences :- <a href="https://drive.google.com/file/d/1DVErvw69bG7r1Cr5nr2w8yH0I6AwFMT9/view">Resume ↗</a>
+- 📄 Know about my experiences :- <a href="https://drive.google.com/file/d/1tYFMGSb5QslUbwgOb3VEeZ6nR02tOFdh/view?usp=drive_link">Resume ↗</a>
 
 - ⚡ Fun fact **Can make everyone laugh even when there is nonone**
 
